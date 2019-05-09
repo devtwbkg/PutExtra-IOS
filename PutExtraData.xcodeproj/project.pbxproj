@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F401E0512283E1D500AFC370 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F401E0502283E1D500AFC370 /* SecondViewController.swift */; };
 		F485A8182282DCA500EE8C07 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F485A8172282DCA500EE8C07 /* AppDelegate.swift */; };
 		F485A81A2282DCA500EE8C07 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F485A8192282DCA500EE8C07 /* ViewController.swift */; };
 		F485A81D2282DCA500EE8C07 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F485A81B2282DCA500EE8C07 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F401E0502283E1D500AFC370 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		F485A8142282DCA500EE8C07 /* PutExtraData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PutExtraData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F485A8172282DCA500EE8C07 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F485A8192282DCA500EE8C07 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				F485A81E2282DCA700EE8C07 /* Assets.xcassets */,
 				F485A8202282DCA700EE8C07 /* LaunchScreen.storyboard */,
 				F485A8232282DCA700EE8C07 /* Info.plist */,
+				F401E0502283E1D500AFC370 /* SecondViewController.swift */,
 			);
 			path = PutExtraData;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F401E0512283E1D500AFC370 /* SecondViewController.swift in Sources */,
 				F485A81A2282DCA500EE8C07 /* ViewController.swift in Sources */,
 				F485A8182282DCA500EE8C07 /* AppDelegate.swift in Sources */,
 			);

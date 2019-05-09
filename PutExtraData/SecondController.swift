@@ -9,6 +9,8 @@
 import UIKit
 
 class SecondController: UIViewController {
+    
+    var textPassedOver : String?
 
     override func viewDidLoad() {
         super.viewDidLoad()

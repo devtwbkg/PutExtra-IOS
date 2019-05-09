@@ -9,9 +9,15 @@
 import UIKit
 
 class SecondViewController: UIViewController {
+    
+    var textPassedOver : String?
 
+    @IBOutlet weak var labelText: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        labelText.text = textPassedOver
 
         // Do any additional setup after loading the view.
     }
